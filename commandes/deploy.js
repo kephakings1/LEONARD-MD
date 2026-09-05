@@ -42,7 +42,7 @@ Hello ${nomAuteurMessage},,
 ✔From there you are required to get your *Session id* but how,??..
          *ʜᴏᴡ ᴛᴏ ɢᴇᴛ sᴇssɪᴏɴ ɪᴅ*
 ✞ Open this link 👉 hoo.be/leonardtech then tap on pair code.
-✞ Enter your whatsapp number with the country code e.g;  255757103671 then tap submit 
+✞ Enter your whatsapp number with the country code e.g;  255613131120 then tap submit 
 ✞Leonard Md owner , *leonard* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
 ✞Tap on the notification and paste the code that Leonard md owner sent you.
 ✞ After a successful login Leonard Md owner 😂 Leonard will send you a *session id* .some will wonder where the hell is that session ,,,...It is just right at your inbox /dm {your own number for whatsappp} 😂
@@ -55,7 +55,7 @@ Hello ${nomAuteurMessage},,
 ✔Now click on this devs number and give Leonard md owner credits 
 
 
-https://wa.me/255757103671
+https://wa.me/255613131120
 ╰────────────────────☆`;
 let menuMsg = `
      𝐑𝐞𝐠𝐚𝐫𝐝𝐬 *ʟᴇᴏɴᴀʀᴅ ᴛᴇᴀᴍ*`;
