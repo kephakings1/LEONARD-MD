@@ -48,11 +48,11 @@
 
 <h1 align="center"> More Updates Here 🤝 </h1>
 <p align="center">
-  <a href="https://wa.me/255757103671">
+  <a href="https://wa.me/255613131120">
     <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="12%" alt="WhatsApp DM" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J">
+  <a href="https://whatsapp.com/channel/0029VbDZuY3DDmFcdA0H3b3c">
     <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="12%" alt="WhatsApp Channel" />
   </a>
   &nbsp;&nbsp;
